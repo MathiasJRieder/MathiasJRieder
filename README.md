@@ -17,4 +17,4 @@
   
  <h2> Contact me!</h2>
  
- [By Email](mailto:mjrieder@outlook.com)
+ - [Email: mjrieder@outlook.com](mailto:mjrieder@outlook.com)
