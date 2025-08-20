@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Mathias, Welcome To My Portfolio!</h1>
 
-<!--
-**MathiasJRieder/MathiasJRieder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Computer Science Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>C++ Projects</b>
+  - [Link](https://github.com/MathiasJRieder/)
+- <b>C Projects</b>
+  - [Link](https://github.com/MathiasJRieder/)
+- <b>Assembly</b>
+  - [Link](https://github.com/MathiasJRieder/)
+- <b>Python</b>
+  - [Link](https://github.com/MathiasJRieder/)
+- <b>HTML Applications</b>
+  - [Finance Management Application (Blueprint)](https://github.com/MathiasJRieder/)
+- <b>Unreal Engine</b>
+  - [Link](https://github.com/MathiasJRieder/)
+  
+ <h2> Contact me!</h2>
+ 
+ [By Email](mailto:mjrieder@outlook.com)
