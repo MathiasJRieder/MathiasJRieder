@@ -11,7 +11,7 @@
 - <b>Python</b>
   - [Link](https://github.com/MathiasJRieder/)
 - <b>HTML Applications</b>
-  - [Finance Management Application (Blueprint)](https://github.com/MathiasJRieder/)
+  - [Finance Management Application (Blueprint)](https://github.com/MathiasJRieder/FinanceManagement)
 - <b>Unreal Engine</b>
   - [Link](https://github.com/MathiasJRieder/)
   
