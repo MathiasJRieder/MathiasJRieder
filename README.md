@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mathias, Welcome To My Portfolio!</h1>
+<h1>Hi, I'm Mathias, Welcome To My GitHub!</h1>
 
 <h2>Computer Science Projects:</h2>
 
